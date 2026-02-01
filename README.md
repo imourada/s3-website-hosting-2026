@@ -5,7 +5,8 @@ This project demonstrates hosting a static website using **Amazon S3**.
 It was created as a hands-on exercise to learn cloud storage, bucket policies, logging, lifecycle rules, and static site hosting.  
 It also doubles as an **exam-friendly study guide** with AWS CLI commands for each step.
 
----
+access the website from below url 
+http://s3-website-hosting-2026.s3-website-us-east-1.amazonaws.com
 
 ## 🧠 Key Idea (Exam Gold)
 - Amazon S3 can host static websites without EC2, Load Balancers, or web servers.  
@@ -192,3 +193,6 @@ aws s3api delete-object --bucket barista908 --key ABOUT_THIS_TEMPLATE.txt --vers
 - **Exam-friendly notes with AWS CLI commands** (for study).  
 - **Architecture + references** (for completeness).  
 
+access the website from below url 
+
+http://s3-website-hosting-2026.s3-website-us-east-1.amazonaws.com
